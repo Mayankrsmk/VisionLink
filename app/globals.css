@@ -114,3 +114,11 @@
     width: 100%;
   }
 }
+html {
+  background-color: white;
+  color: black;
+}
+html.dark {
+  background-color: #1c1f2e;
+  color: white;
+}
